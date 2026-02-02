@@ -1,0 +1,171 @@
+=== SFT MODEL COMPARISON ===
+MODEL_A (raw SFT)     : outputs/sft
+MODEL_B (filtered SFT): outputs/sft_filtered
+DEVICE: cuda
+--------------------------------------------------------------------------------
+
+================================================================================
+PROMPT 0: Write a short engaging tweet about science and technology:
+--------------------------------------------------------------------------------
+
+[SAMPLE 0] seed=42
+RAW SFT:
+Write a short engaging tweet about science and technology:
+happening today the_social_sciences arts humanities @thethedaycriswell_@unipressions @huffpostarts @jesusu @chi_humanities @sharethis @nehgov #blessingchat @danielpandellaward @jul
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about science and technology:
+digital_humanities: data tools tools tools #sussex #sussexuni #sussexuniversity #sussexuni #sussexuni #uottawa #pittonline #sussexuni #trentsussexu @sussexuni #sussexuni
+
+
+[SAMPLE 1] seed=43
+RAW SFT:
+Write a short engaging tweet about science and technology:
+@travielser win medical humanities essay contest hektoen_international_journal -deadline submission deadline #deadline #humanities #deadline #deadline #deadline #deadline #deadline #writingweekend #writerswritingweekend #writingweekend #writersweekend #writers
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about science and technology:
+@traviathan @stvandruff @goshhir @scienceporn sucking fun humanities #edchat #edtechchat #edchat #techchat #edtechchat #edchat #stvchat #techchat #edtechchat #teaching #education #edtechchat #e
+
+
+[SAMPLE 2] seed=44
+RAW SFT:
+Write a short engaging tweet about science and technology:
+@yappelbaum win medical humanities essay contest hektoen_international_journal -deadline submission deadline @yappelbaum #medhummit #medhumedu #medhumjobs #humcareers #careers #careers #careers #careers #careers #careers #care
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about science and technology:
+@yalepin @dariaheu @sapinker @goshlounge @georgewisgraf goshlounge people humanities scholars #nesthiem_@_geogemorielandz @jwadoo @geogemomuslounge @jw
+
+================================================================================
+PROMPT 1: Write a short engaging tweet about AI safety:
+--------------------------------------------------------------------------------
+
+[SAMPLE 0] seed=142
+RAW SFT:
+Write a short engaging tweet about AI safety:
+@sarahchurchwell humanities paper w/ @wethehumanities @nicholasabrosa w/ art_&_technology @cassydhrsly @yjememzkornqvist @cassydhrsly @jmms_humanities #wethehumanities
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about AI safety:
+@sarahgaben @nehgovuk need good idea new data humanities grads #highered #edtech #edhumscifr #phdchat #edchat #edtech #higheredtech #edtech #edtechchat #teacher #meded @fahg_g
+
+
+[SAMPLE 1] seed=143
+RAW SFT:
+Write a short engaging tweet about AI safety:
+@eureka_gonna write humanities paper tomorrow tomorrow morning gonna fail cause fuck ass nalang gga ko yung mga kakabong nakagatapagata eh yung mga naman ko nalang humanities paper mo haha yan dung pinawing hahaha
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about AI safety:
+@narendramodi humanities_and_social_sciences education_and_science_researchers #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #cdnpse #
+
+
+[SAMPLE 2] seed=144
+RAW SFT:
+Write a short engaging tweet about AI safety:
+@viviella_boston @mariahyboston @tweetart @chroryfinch reminder win hektoen_international_journal medical humanities essay contest hektoen_international_journal medical humanities essay contest hektoen_international_journal medical humanities essay contest hek
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about AI safety:
+@vietnam_&_@scienceporn sucking fun humanities kids watch tv #humanities #edchat #youtube video #edtech #edchat #edchat #edtechchat #educational #edchat #edchat #edtechchat #edtechchat #edtechchat #edtechchat
+
+================================================================================
+PROMPT 2: Write a short engaging tweet about space exploration:
+--------------------------------------------------------------------------------
+
+[SAMPLE 0] seed=242
+RAW SFT:
+Write a short engaging tweet about space exploration:
+@vadelizabeth_kristoff @vadelizabeth @jasonnstj guess humanities arts degrees important science degrees @tjmccartney @kristoff @dixiemc @kristoffreporter @jimmccartney @vadelizabethkristoff @krist
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about space exploration:
+@vadelin_kristof science humanities degree different things people know research humanities degree tech degree #techchat #vadelinjonesuniversity_#vadelinjonesuniversity #humanities #cybernetics #pittsburghnews #cybernarratives #h
+
+
+[SAMPLE 1] seed=243
+RAW SFT:
+Write a short engaging tweet about space exploration:
+humanities_&_social_sciences michael_paulson #dietmaria_&_#warrington #research #humanities #humanities #dietmaria #research #warrington #research #socialsciences #sciences #fibui #research #worldwide #
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about space exploration:
+humanities_&_social_sciences_division @paulkf_baker_&_dean_of_research @kf_humanities @paulkf_abroad @paulkf_abroad @paulkf_paulkf @britac
+
+
+[SAMPLE 2] seed=244
+RAW SFT:
+Write a short engaging tweet about space exploration:
+humanities class thought professor gave free test #grantsawards #humanitiesmatter #kindleproudtaylor #tweeters #grantsawards #twitterstorianschool #artists #artists #humanitiesmatter #strictart #art #artistsubmission #artsubmissions_
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about space exploration:
+@kings_humanities @marlino know rt #humanities @martin_eve @trevormunoz nah #uncoveringpublic @humanities @shsarahstorpe @nulabobama @nulabib @zamisayya_yal
+
+================================================================================
+PROMPT 3: Write a short engaging tweet about renewable energy:
+--------------------------------------------------------------------------------
+
+[SAMPLE 0] seed=342
+RAW SFT:
+Write a short engaging tweet about renewable energy:
+dear humanities exam @insidehighered @huffpostedu reminder win hektoen_international_journal medical humanities essay contest hektoen_international_journal medical humanities essay contest hektoen_international_journal medical humanities essay contest hektoen_international_journal medical humanities essay contest he
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about renewable energy:
+dissertation abstracts social_sciences humanities_researcher-_-2014-2015-studies_in_social_sciences_-_mellon_#jmujmujmujpujmujmujmujmujmujmujmujmujmuj
+
+
+[SAMPLE 1] seed=343
+RAW SFT:
+Write a short engaging tweet about renewable energy:
+#geographers #science #humanities #edtech #dante #arizona #digital #edchat #dante #schnecschat #e_&_#fossil #datacenter #dhchat #geographyteacher #civi @lincolnuniversity @h
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about renewable energy:
+#geek_#nerd gamer mit dean defense_of_the_humanities athanasiuskircher #robertheinlein #socialsciences #socialsciences #highereducation #kingshowitzweilm #kingshowitzweilm #socialmedia
+
+
+[SAMPLE 2] seed=344
+RAW SFT:
+Write a short engaging tweet about renewable energy:
+great @elonpaul @vfhi_hudson_&_@_jhuliey @glorianacademy_and_#arts @wendy_@dylan_hudson @yale_humanities @marquettehudson @yale
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about renewable energy:
+great @fahrcpress @scopus #bigdata humanities social science researchers #stuhum @shmuarts @gcc_dept @dennisduke @lwischerpe @denniswatson @uweyork_t @lunisabar @dhnow @du
+
+================================================================================
+PROMPT 4: Write a short engaging tweet about cybersecurity:
+--------------------------------------------------------------------------------
+
+[SAMPLE 0] seed=442
+RAW SFT:
+Write a short engaging tweet about cybersecurity:
+humanities teacher makes cry ouch hahaha jk ngayon ko yun hahaha #yayandbranggawala yun #humtweetsareforyou #humanities #nahm #loveyou #nahm #loveyou #thankyouforfeeling #thankyou
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about cybersecurity:
+humanities research groundbreaking life changing overlooked @chronicle #highered #humanities #uncoveringpublic #counternarrativespublications #publiceducation #counternarrativespubliceducation @humanities @counternarrativespublishing #counternarrativespubliceducation @humanities #un
+
+
+[SAMPLE 1] seed=443
+RAW SFT:
+Write a short engaging tweet about cybersecurity:
+humanities paper nope haha #myselfishinartmornings #napacnipissisaball #coolnapamisand#napacmorningsideatamidha #louisisitselfishinart #sketchmea #bruhat #su
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about cybersecurity:
+humanities research groundbreaking life changing #highered #arts #highered #socialscience #careers #education #stem #careers #education #research #science #arts #education #technology #humanities #highered #highered #education #careers #tech #tech #science #technology #education
+
+
+[SAMPLE 2] seed=444
+RAW SFT:
+Write a short engaging tweet about cybersecurity:
+#london #jobs humanities teacher secondary pre-academia walthamstow walthamstow waltham_forest #job #londonjobs #jobs #londonjobs #londonjobs #londonjobs #londonjobs #londonjobs #londonjobs #london #
+--------------------------------------------------------------------------------
+FILTERED SFT:
+Write a short engaging tweet about cybersecurity:
+#languaging_#science #science #humanities profits meager #marketresearch_#data #report #marketresearch #data #report #mrx #research #marketdata #report #mrx #mrx #highered #digg #highered #dh #mrx #humanities #te
+
